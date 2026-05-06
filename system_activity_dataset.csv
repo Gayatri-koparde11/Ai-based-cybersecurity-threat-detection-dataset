@@ -1,6 +1,0 @@
-Attack_Type,Percentage,Severity
-Normal Traffic,82,Low
-DoS Attack,6,High
-Port Scan,5,Medium
-Brute Force,4,High
-Data Exfiltration,3,Critical
